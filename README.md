@@ -6,7 +6,7 @@ Atualmente estou estudando Java para consolidar meus conhecimentos de Programaç
 
 No momento ainda não tenho expreciência profissional como desenvolvedor, mas estou realizando processos seletivos com a intenção de iniciar na área o mais breve possível!
 
-- 📬 Email: amaralph1995@gmail.com
+📬 Email: amaralph1995@gmail.com
 
 ##
 <div>

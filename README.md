@@ -1,8 +1,11 @@
 ### Hello, world! Eu sou o Pedro Amaral 👋
 
-- 🔭 Hoje estou a procura do meu primeiro emprego como dev
-- 🌱 Estudando Java e Spting MVC
-- 📫 Contate-me no email: amaralph1995@gmail.com
+Sou desenvolvedor web Full-stack formado pela Trybe, uma escola de programação com uma metodologia baseada em projetos. Já estudo programação fazem cerca de 3 anos, nesse tempo pude desenvolver dezenas de aplicações Web usando React, Node, Express, MongoDB, MySQL, Socket.io, Bootrstrap e outras ferramentas, também criei projetos em Python fazendo scrapping e analise de dados.
+
+Atualmente estou estudando Java para consolidar meus conhecimentos de Programação Orientada a Objetos e adicionar mais uma Stack na minha caixa de ferramentas. Tenho estudado TDD e tentado aplicar esse padrão aos meus projetos também.
+
+No momento ainda não tenho expreciência profissional como desenvolvedor, mas estou realizando processos seletivos com a intenção de iniciar na área o mais breve possível!
+
 ##
 <div>
   <a href="https://github.com/AmaralPH">
